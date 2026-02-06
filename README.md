@@ -1,2 +1,1 @@
-# alura_imersao_python_2
-Imersão Python Aluna 2026
+# imersao-dados-python-alura-2025
